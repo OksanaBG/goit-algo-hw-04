@@ -1,0 +1,83 @@
+2025-09-17 22:39:02,013 [INFO] Джерело:      C:\Projects\Algorithm\Practical_2
+2025-09-17 22:39:02,014 [INFO] Призначення:  C:\Projects\Algorithm\dist2
+2025-09-17 22:39:02,016 [INFO] Скопійовано: C:\Projects\Algorithm\Practical_2\Practical_2 - Copy\bubble_sort.py -> C:\Projects\Algorithm\dist2\py\bubble_sort.py
+2025-09-17 22:39:02,018 [INFO] Скопійовано: C:\Projects\Algorithm\Practical_2\Practical_2 - Copy\dist\no_extension\.gitignore -> C:\Projects\Algorithm\dist2\no_ext\.gitignore
+2025-09-17 22:39:02,020 [INFO] Скопійовано: C:\Projects\Algorithm\Practical_2\Practical_2 - Copy\dist\py\a.py -> C:\Projects\Algorithm\dist2\py\a.py
+2025-09-17 22:39:02,022 [INFO] Скопійовано: C:\Projects\Algorithm\Practical_2\Practical_2 - Copy\dist\py\b.py -> C:\Projects\Algorithm\dist2\py\b.py
+2025-09-17 22:39:02,023 [INFO] Скопійовано: C:\Projects\Algorithm\Practical_2\Practical_2 - Copy\dist\py\c.py -> C:\Projects\Algorithm\dist2\py\c.py
+2025-09-17 22:39:02,025 [INFO] Скопійовано: C:\Projects\Algorithm\Practical_2\Practical_2 - Copy\dist\txt\a.txt -> C:\Projects\Algorithm\dist2\txt\a.txt
+2025-09-17 22:39:02,027 [INFO] Скопійовано: C:\Projects\Algorithm\Practical_2\Practical_2 - Copy\dist\txt\b.txt -> C:\Projects\Algorithm\dist2\txt\b.txt
+2025-09-17 22:39:02,029 [INFO] Скопійовано: C:\Projects\Algorithm\Practical_2\Practical_2 - Copy\dist\txt\c.txt -> C:\Projects\Algorithm\dist2\txt\c.txt
+2025-09-17 22:39:02,032 [INFO] Скопійовано: C:\Projects\Algorithm\Practical_2\Practical_2 - Copy\dist\txt\test.txt -> C:\Projects\Algorithm\dist2\txt\test.txt
+2025-09-17 22:39:02,043 [INFO] Скопійовано: C:\Projects\Algorithm\Practical_2\Practical_2 - Copy\exercise_3_1 - Copy.py -> C:\Projects\Algorithm\dist2\py\exercise_3_1 - Copy.py
+2025-09-17 22:39:02,046 [INFO] Скопійовано: C:\Projects\Algorithm\Practical_2\Practical_2 - Copy\exercise_3_2 - Copy.py -> C:\Projects\Algorithm\dist2\py\exercise_3_2 - Copy.py
+2025-09-17 22:39:02,049 [INFO] Скопійовано: C:\Projects\Algorithm\Practical_2\Practical_2 - Copy\exercise_4_1 - Copy.py -> C:\Projects\Algorithm\dist2\py\exercise_4_1 - Copy.py
+2025-09-17 22:39:02,050 [INFO] Скопійовано: C:\Projects\Algorithm\Practical_2\Practical_2 - Copy\golden_fractal_tree.py -> C:\Projects\Algorithm\dist2\py\golden_fractal_tree.py
+2025-09-17 22:39:02,052 [INFO] Скопійовано: C:\Projects\Algorithm\Practical_2\Practical_2 - Copy\max_recursion.py -> C:\Projects\Algorithm\dist2\py\max_recursion.py
+2025-09-17 22:39:02,053 [INFO] Скопійовано: C:\Projects\Algorithm\Practical_2\Practical_2 - Copy\recursions.py -> C:\Projects\Algorithm\dist2\py\recursions.py
+2025-09-17 22:39:02,055 [INFO] Скопійовано: C:\Projects\Algorithm\Practical_2\Practical_2 - Copy\recursive_insertion_sort.py -> C:\Projects\Algorithm\dist2\py\recursive_insertion_sort.py
+2025-09-17 22:39:02,056 [INFO] Скопійовано: C:\Projects\Algorithm\Practical_2\Practical_2 - Copy\sorting_visualize.py -> C:\Projects\Algorithm\dist2\py\sorting_visualize.py
+2025-09-17 22:39:02,057 [INFO] Скопійовано: C:\Projects\Algorithm\Practical_2\Practical_2 - Copy\test\a\a.py -> C:\Projects\Algorithm\dist2\py\a (1).py
+2025-09-17 22:39:02,059 [INFO] Скопійовано: C:\Projects\Algorithm\Practical_2\Practical_2 - Copy\test\a\a.txt -> C:\Projects\Algorithm\dist2\txt\a (1).txt
+2025-09-17 22:39:02,062 [INFO] Скопійовано: C:\Projects\Algorithm\Practical_2\Practical_2 - Copy\test\a\c\c.py -> C:\Projects\Algorithm\dist2\py\c (1).py
+2025-09-17 22:39:02,064 [INFO] Скопійовано: C:\Projects\Algorithm\Practical_2\Practical_2 - Copy\test\a\c\c.txt -> C:\Projects\Algorithm\dist2\txt\c (1).txt
+2025-09-17 22:39:02,067 [INFO] Скопійовано: C:\Projects\Algorithm\Practical_2\Practical_2 - Copy\test\b\.gitignore -> C:\Projects\Algorithm\dist2\no_ext\.gitignore (1)
+2025-09-17 22:39:02,069 [INFO] Скопійовано: C:\Projects\Algorithm\Practical_2\Practical_2 - Copy\test\b\b.py -> C:\Projects\Algorithm\dist2\py\b (1).py
+2025-09-17 22:39:02,070 [INFO] Скопійовано: C:\Projects\Algorithm\Practical_2\Practical_2 - Copy\test\b\b.txt -> C:\Projects\Algorithm\dist2\txt\b (1).txt
+2025-09-17 22:39:02,071 [INFO] Скопійовано: C:\Projects\Algorithm\Practical_2\Practical_2 - Copy\test\test.txt -> C:\Projects\Algorithm\dist2\txt\test (1).txt
+2025-09-17 22:39:02,074 [INFO] Скопійовано: C:\Projects\Algorithm\Practical_2\Practical_2 - Copy\test\test_2\test.txt -> C:\Projects\Algorithm\dist2\txt\test (2).txt
+2025-09-17 22:39:02,074 [INFO] ГОТОВО. Скопійовано файлів: 26
+2025-09-17 22:39:02,074 [INFO] Розподіл за розширеннями:
+2025-09-17 22:39:02,075 [INFO]   py         -> 15
+2025-09-17 22:39:02,075 [INFO]   txt        -> 9
+2025-09-17 22:39:02,075 [INFO]   no_ext     -> 2
+2025-09-17 22:43:23,963 [ERROR] Вихідна директорія не існує або це не директорія: C:\Projects\Algorithm\Practical_2\Practical_2
+2025-09-17 22:43:49,209 [INFO] Джерело:      C:\Projects\Algorithm\Practical_2
+2025-09-17 22:43:49,210 [INFO] Призначення:  C:\Projects\Algorithm\dist2
+2025-09-17 22:43:49,213 [INFO] Скопійовано: C:\Projects\Algorithm\Practical_2\Practical_2 - Copy\bubble_sort.py -> C:\Projects\Algorithm\dist2\py\bubble_sort (1).py
+2025-09-17 22:43:49,215 [INFO] Скопійовано: C:\Projects\Algorithm\Practical_2\Practical_2 - Copy\dist\no_extension\.gitignore -> C:\Projects\Algorithm\dist2\no_ext\.gitignore (2)
+2025-09-17 22:43:49,218 [INFO] Скопійовано: C:\Projects\Algorithm\Practical_2\Practical_2 - Copy\dist\py\a.py -> C:\Projects\Algorithm\dist2\py\a (2).py
+2025-09-17 22:43:49,220 [INFO] Скопійовано: C:\Projects\Algorithm\Practical_2\Practical_2 - Copy\dist\py\b.py -> C:\Projects\Algorithm\dist2\py\b (2).py
+2025-09-17 22:43:49,221 [INFO] Скопійовано: C:\Projects\Algorithm\Practical_2\Practical_2 - Copy\dist\py\c.py -> C:\Projects\Algorithm\dist2\py\c (2).py
+2025-09-17 22:43:49,222 [INFO] Скопійовано: C:\Projects\Algorithm\Practical_2\Practical_2 - Copy\dist\txt\a.txt -> C:\Projects\Algorithm\dist2\txt\a (2).txt
+2025-09-17 22:43:49,223 [INFO] Скопійовано: C:\Projects\Algorithm\Practical_2\Practical_2 - Copy\dist\txt\b.txt -> C:\Projects\Algorithm\dist2\txt\b (2).txt
+2025-09-17 22:43:49,224 [INFO] Скопійовано: C:\Projects\Algorithm\Practical_2\Practical_2 - Copy\dist\txt\c.txt -> C:\Projects\Algorithm\dist2\txt\c (2).txt
+2025-09-17 22:43:49,225 [INFO] Скопійовано: C:\Projects\Algorithm\Practical_2\Practical_2 - Copy\dist\txt\test.txt -> C:\Projects\Algorithm\dist2\txt\test (3).txt
+2025-09-17 22:43:49,228 [INFO] Скопійовано: C:\Projects\Algorithm\Practical_2\Practical_2 - Copy\exercise_3_1 - Copy.py -> C:\Projects\Algorithm\dist2\py\exercise_3_1 - Copy (1).py
+2025-09-17 22:43:49,230 [INFO] Скопійовано: C:\Projects\Algorithm\Practical_2\Practical_2 - Copy\exercise_3_2 - Copy.py -> C:\Projects\Algorithm\dist2\py\exercise_3_2 - Copy (1).py
+2025-09-17 22:43:49,232 [INFO] Скопійовано: C:\Projects\Algorithm\Practical_2\Practical_2 - Copy\exercise_4_1 - Copy.py -> C:\Projects\Algorithm\dist2\py\exercise_4_1 - Copy (1).py
+2025-09-17 22:43:49,234 [INFO] Скопійовано: C:\Projects\Algorithm\Practical_2\Practical_2 - Copy\golden_fractal_tree.py -> C:\Projects\Algorithm\dist2\py\golden_fractal_tree (1).py
+2025-09-17 22:43:49,236 [INFO] Скопійовано: C:\Projects\Algorithm\Practical_2\Practical_2 - Copy\max_recursion.py -> C:\Projects\Algorithm\dist2\py\max_recursion (1).py
+2025-09-17 22:43:49,240 [INFO] Скопійовано: C:\Projects\Algorithm\Practical_2\Practical_2 - Copy\recursions.py -> C:\Projects\Algorithm\dist2\py\recursions (1).py
+2025-09-17 22:43:49,242 [INFO] Скопійовано: C:\Projects\Algorithm\Practical_2\Practical_2 - Copy\recursive_insertion_sort.py -> C:\Projects\Algorithm\dist2\py\recursive_insertion_sort (1).py
+2025-09-17 22:43:49,243 [INFO] Скопійовано: C:\Projects\Algorithm\Practical_2\Practical_2 - Copy\sorting_visualize.py -> C:\Projects\Algorithm\dist2\py\sorting_visualize (1).py
+2025-09-17 22:43:49,244 [INFO] Скопійовано: C:\Projects\Algorithm\Practical_2\Practical_2 - Copy\test\a\a.py -> C:\Projects\Algorithm\dist2\py\a (3).py
+2025-09-17 22:43:49,246 [INFO] Скопійовано: C:\Projects\Algorithm\Practical_2\Practical_2 - Copy\test\a\a.txt -> C:\Projects\Algorithm\dist2\txt\a (3).txt
+2025-09-17 22:43:49,247 [INFO] Скопійовано: C:\Projects\Algorithm\Practical_2\Practical_2 - Copy\test\a\c\c.py -> C:\Projects\Algorithm\dist2\py\c (3).py
+2025-09-17 22:43:49,248 [INFO] Скопійовано: C:\Projects\Algorithm\Practical_2\Practical_2 - Copy\test\a\c\c.txt -> C:\Projects\Algorithm\dist2\txt\c (3).txt
+2025-09-17 22:43:49,249 [INFO] Скопійовано: C:\Projects\Algorithm\Practical_2\Practical_2 - Copy\test\b\.gitignore -> C:\Projects\Algorithm\dist2\no_ext\.gitignore (3)
+2025-09-17 22:43:49,251 [INFO] Скопійовано: C:\Projects\Algorithm\Practical_2\Practical_2 - Copy\test\b\b.py -> C:\Projects\Algorithm\dist2\py\b (3).py
+2025-09-17 22:43:49,252 [INFO] Скопійовано: C:\Projects\Algorithm\Practical_2\Practical_2 - Copy\test\b\b.txt -> C:\Projects\Algorithm\dist2\txt\b (3).txt
+2025-09-17 22:43:49,255 [INFO] Скопійовано: C:\Projects\Algorithm\Practical_2\Practical_2 - Copy\test\test.txt -> C:\Projects\Algorithm\dist2\txt\test (4).txt
+2025-09-17 22:43:49,257 [INFO] Скопійовано: C:\Projects\Algorithm\Practical_2\Practical_2 - Copy\test\test_2\test.txt -> C:\Projects\Algorithm\dist2\txt\test (5).txt
+2025-09-17 22:43:49,257 [INFO] ГОТОВО. Скопійовано файлів: 26
+2025-09-17 22:43:49,257 [INFO] Розподіл за розширеннями:
+2025-09-17 22:43:49,258 [INFO]   py         -> 15
+2025-09-17 22:43:49,258 [INFO]   txt        -> 9
+2025-09-17 22:43:49,258 [INFO]   no_ext     -> 2
+2025-09-17 22:43:58,593 [INFO] Джерело:      C:\Projects\Algorithm\Practical_3
+2025-09-17 22:43:58,594 [INFO] Призначення:  C:\Projects\Algorithm\dist3
+2025-09-17 22:43:58,596 [INFO] Скопійовано: C:\Projects\Algorithm\Practical_3\Practical_3\crack_hash.py -> C:\Projects\Algorithm\dist3\py\crack_hash.py
+2025-09-17 22:43:58,597 [INFO] Скопійовано: C:\Projects\Algorithm\Practical_3\Practical_3\exercise_5_1.py -> C:\Projects\Algorithm\dist3\py\exercise_5_1.py
+2025-09-17 22:43:58,598 [INFO] Скопійовано: C:\Projects\Algorithm\Practical_3\Practical_3\exercise_5_2.py -> C:\Projects\Algorithm\dist3\py\exercise_5_2.py
+2025-09-17 22:43:58,609 [INFO] Скопійовано: C:\Projects\Algorithm\Practical_3\Practical_3\exercise_5_3.py -> C:\Projects\Algorithm\dist3\py\exercise_5_3.py
+2025-09-17 22:43:58,610 [INFO] Скопійовано: C:\Projects\Algorithm\Practical_3\Practical_3\exercise_6_1.py -> C:\Projects\Algorithm\dist3\py\exercise_6_1.py
+2025-09-17 22:43:58,612 [INFO] Скопійовано: C:\Projects\Algorithm\Practical_3\Practical_3\exercise_6_2.py -> C:\Projects\Algorithm\dist3\py\exercise_6_2.py
+2025-09-17 22:43:58,613 [INFO] Скопійовано: C:\Projects\Algorithm\Practical_3\Practical_3\exercise_6_3.py -> C:\Projects\Algorithm\dist3\py\exercise_6_3.py
+2025-09-17 22:43:58,614 [INFO] Скопійовано: C:\Projects\Algorithm\Practical_3\Practical_3\exponential_search.py -> C:\Projects\Algorithm\dist3\py\exponential_search.py
+2025-09-17 22:43:58,615 [INFO] Скопійовано: C:\Projects\Algorithm\Practical_3\Practical_3\password_with_salt.py -> C:\Projects\Algorithm\dist3\py\password_with_salt.py
+2025-09-17 22:43:58,618 [INFO] Скопійовано: C:\Projects\Algorithm\Practical_3\Practical_3\regex_simple.py -> C:\Projects\Algorithm\dist3\py\regex_simple.py
+2025-09-17 22:43:58,621 [INFO] Скопійовано: C:\Projects\Algorithm\Practical_3\Practical_3\social_network.py -> C:\Projects\Algorithm\dist3\py\social_network.py
+2025-09-17 22:43:58,621 [INFO] ГОТОВО. Скопійовано файлів: 11
+2025-09-17 22:43:58,622 [INFO] Розподіл за розширеннями:
+2025-09-17 22:43:58,622 [INFO]   py         -> 11
